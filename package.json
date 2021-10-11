@@ -78,6 +78,6 @@
     "gulp-uglify": "^2.0.0",
     "install": "^0.13.0",
     "typescript": "^4.4.3",
-    "vinyl-paths": "^3.0.0"
+    "vinyl-paths": "^4.0.0"
   }
 }
